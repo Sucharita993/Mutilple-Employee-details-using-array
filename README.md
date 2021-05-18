@@ -43,4 +43,7 @@ Creation of boolean, so that we prevent display before creation and salary incre
                 System.out.println("No records \n");
                 break;
  ```
- 
+ OUTPUT
+ <img width="960" alt="Screenshot 2021-05-18 080830" src="https://user-images.githubusercontent.com/84003518/118581983-3c604000-b7b0-11eb-89a5-c47347545b83.png">
+<img width="960" alt="Screenshot 2021-05-18 081219" src="https://user-images.githubusercontent.com/84003518/118582283-b2fd3d80-b7b0-11eb-87be-e34deae74784.png">
+
